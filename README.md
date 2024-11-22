@@ -20,7 +20,7 @@ Using Machine Learning to predict user churn then segment these users into group
 ## **II. Supervised Learning**
 
 ### **1. EDA**
-#### **1.1. Handle Missing/Duplicate/Incorrect Values**
+#### **1.1. Handle Missing/Duplicate/Incorrect Values** 
 - Check
 
   ![Check](https://github.com/user-attachments/assets/00d813d5-ddc7-4c89-98c7-6efa26e6d46b)
@@ -41,6 +41,14 @@ Using Machine Learning to predict user churn then segment these users into group
   + Handle when features cover have outliers => replace Median
  
     ![Replace Median](https://github.com/user-attachments/assets/3225fc91-9e99-4700-aec5-27acce9dbc8a)
+
+#### **1.2. Check imbalanced**
+
+
+
+The ration of label 1 on total is 16% => We can continue with the EDA and ML model
+
+#### **1.3. Univariate Analysis** 
 
 ### **2. Transforms features**
 
