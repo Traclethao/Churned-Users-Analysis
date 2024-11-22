@@ -23,7 +23,7 @@ Using Machine Learning to predict user churn then segment these users into group
 #### **1.1. Handle Missing/Duplicate/Incorrect Values**
 - Check
 
-- 
+  ![Check](https://github.com/user-attachments/assets/00d813d5-ddc7-4c89-98c7-6efa26e6d46b)
 
   => Six isna features are numeric columns (Tenure, HourSpendOnApp, CouponUsed, DaySinceLastOrder, OrderAmountHikeFromlastYear, OrderCount, WarehouseToHome)
   + Tenure, HourSpendOnApp, CouponUsed, DaySinceLastOrder have 0 in values => replace 0.
@@ -31,16 +31,16 @@ Using Machine Learning to predict user churn then segment these users into group
   + OrderCount do not have 0 in values but it is Total number of orders has been places in last month. If the customer did not buy anything last month => can have 0 in values => replace 0.
   + WarehouseToHome  => cann't have 0 in values => check outlier => WarehouseToHome cover outliers => replace median
  
-  + 
+    ![WarehouseToHome](https://github.com/user-attachments/assets/c114eb45-5909-4822-bc32-be2464f04ea0)
   
 - Handle numeric columns
   + Handle when features have 0 in values => replace 0
  
-  + 
+    ![Replace 0](https://github.com/user-attachments/assets/9a9638d7-eeb2-4cfa-afad-bc04bf07b0c1)
   
   + Handle when features can cover have outliers => replace Median
  
-  + 
+    ![Replace Median](https://github.com/user-attachments/assets/3225fc91-9e99-4700-aec5-27acce9dbc8a)
 
 ### **2. Transforms features**
 
