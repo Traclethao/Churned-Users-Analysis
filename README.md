@@ -8,7 +8,7 @@ Using Machine Learning to predict user churn then segment these users into group
 - One ecommerce company has a project on **predicting churned users** and **segment users** in order to **offer potential promotions**. 
 - Data Dictionary: 
 
-
+![Data Dictionary](https://github.com/user-attachments/assets/7ccccfa6-d4c2-41d4-b768-f336c0ebdc9a)
 
 ### **2. Task**
 
