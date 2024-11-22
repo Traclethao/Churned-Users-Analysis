@@ -84,11 +84,15 @@ As shown the unique values of each numeric column, there are 5 columns that have
 
 - Show Feature Importance from model.
 
-- 
+  ![shown features importance](https://github.com/user-attachments/assets/07ce63af-c883-4950-a982-a3a24d1479ca)
+
+  ![result FI](https://github.com/user-attachments/assets/5c8a9bdc-493d-44e4-9584-02eb0ae49cd0)
 
 - From the Feature Important chart, choose the 6 highest features: Tenure, Complain, DaySinceLastOrder, CashbackAmount, MaritalStatus_Single, PreferedOrderCat_Mobile Phone.
 
-- 
+  ![choose 6 FI](https://github.com/user-attachments/assets/5aff37c2-c9cb-4c45-8672-146670ecafe9)
+
+  ![6FI](https://github.com/user-attachments/assets/2a2d1b45-c96e-40c3-9175-ab81d22b1322)
 
 ## **III. Unsupervised Learning**
 
