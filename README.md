@@ -104,23 +104,54 @@ As shown the unique values of each numeric column, there are 5 columns that have
 
 ### **2. Apply K-Means model**
 
-### **2.2 Choose K**
+#### **2.1. Choose K**
 
   ![Choose K](https://github.com/user-attachments/assets/246702b1-194d-4c11-867d-8cc0e282916c)
+  
   => Choose k=4
   
-- Apply K-Means
+#### **2.2. Apply K-Means**
 
   ![Apply K-Means](https://github.com/user-attachments/assets/6824fde2-80af-459e-8cd0-085ed3319f9d)
 
-- Silhouette Score => silhouette_score = 0.5, shows that the data is clustered quite well. 
+#### **2.3. Silhouette Score** 
 
   ![Silhouette Score](https://github.com/user-attachments/assets/1cc73fcc-38ed-424c-81b9-c63048fdfffd)
+
+  => silhouette_score = 0.5, shows that the data is clustered quite well. 
   
-- Distribution of clusters
+#### **2.4. Distribution of clusters**
 
-- => Cluster 1 has the most distribution (accounted for more 400 users)
+- Distribution Of The Clusters
+  
+-
+  
+  => Cluster 1 has the most distribution (accounted for more 400 users)
+  
+- Cluster's Profile Based On CashbackAmount And Tenure
 
+- 
+
+  => The distribution of clusters by CashbackAmount And Tenure is almost the same.
+
+- Cluster's Profile Based On CashbackAmount And DaySinceLastOrder
+
+- 
+
+  => The distribution of clusters is mainly concentrated in the range of 0-20 recent days.
+
+- Cluster's Profile Based On MaritalStatus
+
+- 
+  
+- Cluster's Profile Based On Complain
+
+- 
+  
+- Cluster's Profile Based On PreferedOrderCat
+
+- 
+  
 ### **3. GridSearchCV model**
 
 
