@@ -20,7 +20,27 @@ Using Machine Learning to predict user churn then segment these users into group
 ## **II. Supervised Learning**
 
 ### **1. EDA**
+#### **1.1. Handle Missing/Duplicate/Incorrect Values**
+- Check
 
+- 
+
+  => Six isna features are numeric columns (Tenure, HourSpendOnApp, CouponUsed, DaySinceLastOrder, OrderAmountHikeFromlastYear, OrderCount, WarehouseToHome)
+  + Tenure, HourSpendOnApp, CouponUsed, DaySinceLastOrder have 0 in values => replace 0.
+  + OrderAmountHikeFromlastYear do not have 0 in values but it is a percentage increase in order from last year. If the number orders last year = the number orders in this year => can have 0 in values => replace 0.
+  + OrderCount do not have 0 in values but it is Total number of orders has been places in last month. If the customer did not buy anything last month => can have 0 in values => replace 0.
+  + WarehouseToHome  => cann't have 0 in values => check outlier => WarehouseToHome cover outliers => replace median
+ 
+  + 
+  
+- Handle numeric columns
+  + Handle when features have 0 in values => replace 0
+ 
+  + 
+  
+  + Handle when features can cover have outliers => replace Median
+ 
+  + 
 
 ### **2. Transforms features**
 
