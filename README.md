@@ -123,8 +123,8 @@ As shown the unique values of each numeric column, there are 5 columns that have
 #### **2.4. Distribution of clusters**
 
 - Distribution Of The Clusters
-  
-![Clusters](https://github.com/user-attachments/assets/fa4b98f8-b8f7-4569-81b4-d8b7021bb9ad)
+
+  ![Clusters](https://github.com/user-attachments/assets/fa4b98f8-b8f7-4569-81b4-d8b7021bb9ad)
   
   => Cluster 1 has the most distribution (accounted for more 400 users)
   
