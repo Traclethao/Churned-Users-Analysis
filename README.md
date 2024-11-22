@@ -156,15 +156,17 @@ As shown the unique values of each numeric column, there are 5 columns that have
 
 - Split train/test set & Normalization
 
-- 
+  ![Split traintest set   Normalization](https://github.com/user-attachments/assets/f0abf158-4e1a-4a09-941a-29bc3537c35f)
   
 - Apply Model
 
-- 
+- ![Apply Model](https://github.com/user-attachments/assets/41a9a16a-3ec9-40ab-874c-5f23c843bac9)
   
 - Feature Importance of Clusters
 
-- 
+  ![Feature Importance of Clusters](https://github.com/user-attachments/assets/d0281212-b4a9-48d0-842b-389d5d0acffb)
+
+  ![Feature Importance of Clusters - result](https://github.com/user-attachments/assets/4a996e92-7a76-4572-852e-c1533ddaa0b3)
 
   => CashbackAmount is the most important factor in clustering for churned users. It is 3 times more important than Tenure, which is the second most important.
 
