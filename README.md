@@ -64,8 +64,12 @@ As shown the unique values of each numeric column, there are 5 columns that have
 ### **2. Transforms features**
 
 
+
 ### **3. Apply Random Forest model**
 
+
+
+=> The accuracy index on the test set is 94% that means this model has correct predictions and correct features importance. 
 
 ### **4. Choose top 6 features importance to analyze**
 
