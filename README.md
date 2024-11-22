@@ -160,7 +160,7 @@ As shown the unique values of each numeric column, there are 5 columns that have
   
 - Apply Model
 
-- ![Apply Model](https://github.com/user-attachments/assets/41a9a16a-3ec9-40ab-874c-5f23c843bac9)
+  ![Apply Model](https://github.com/user-attachments/assets/41a9a16a-3ec9-40ab-874c-5f23c843bac9)
   
 - Feature Importance of Clusters
 
