@@ -88,7 +88,7 @@ As shown the unique values of each numeric column, there are 5 columns that have
 
   ![result FI](https://github.com/user-attachments/assets/5c8a9bdc-493d-44e4-9584-02eb0ae49cd0)
 
-- From the Feature Important chart, choose the 6 highest features: Tenure, Complain, DaySinceLastOrder, CashbackAmount, MaritalStatus_Single, PreferedOrderCat_Mobile Phone.
+- From the Feature Important chart, choose the 6 highest features: Tenure, Complain, DaySinceLastOrder, CashbackAmount, MaritalStatus_Single, PreferedOrderCat_Mobile Phone. Get churned users. 
 
   ![choose 6 FI](https://github.com/user-attachments/assets/5aff37c2-c9cb-4c45-8672-146670ecafe9)
 
