@@ -63,11 +63,20 @@ As shown the unique values of each numeric column, there are 5 columns that have
 
 ### **2. Transforms features**
 
-
+![Transforms Features](https://github.com/user-attachments/assets/04ee1670-5e85-4655-b0b6-734fee86905f)
 
 ### **3. Apply Random Forest model**
+- Split train/test set
 
+  ![Split traintest set - SL](https://github.com/user-attachments/assets/419bf1b0-0782-4f1c-b271-763787a45a8f)
+  
+- Normalization
 
+  ![Normalization - SL](https://github.com/user-attachments/assets/5f57e0c9-a256-497d-9607-e4ccd28de680)
+
+- Random Forest Classifier
+
+  ![Random Forest Classifier](https://github.com/user-attachments/assets/4002850e-9c1d-4895-b7ec-9973263ca0cd)
 
 => The accuracy index on the test set is 94% that means this model has correct predictions and correct features importance. 
 
