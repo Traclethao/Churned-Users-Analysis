@@ -104,6 +104,19 @@ As shown the unique values of each numeric column, there are 5 columns that have
 
 ### **2. Apply K-Means model**
 
+- Choosing K => Choose k=4
+
+- 
+  
+- Apply K-Means
+
+- 
+
+- Silhouette Score => silhouette_score = 0.5, shows that the data is clustered quite well. 
+
+- 
+  
+- Distribution of clusters
 
 ### **3. GridSearchCV model**
 
