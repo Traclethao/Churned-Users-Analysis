@@ -50,6 +50,14 @@ Using Machine Learning to predict user churn then segment these users into group
 
 #### **1.3. Univariate Analysis** 
 
+
+
+As shown the unique values of each numeric column, there are 5 columns that have low unique values (less than 10 values), which are CityTier, HourSpendOnApp, NumberOfDeviceRegistered, SatisfactionScore and Complain.
+=> HourSpendOnApp, NumberOfDeviceRegistered, SatisfactionScore, Complain have numeric dtype but don't have category meaning.
+=> CityTier has numeric dtype but has category meaning. => convert to object
+
+
+
 ### **2. Transforms features**
 
 
