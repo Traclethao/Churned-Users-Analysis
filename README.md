@@ -82,6 +82,13 @@ As shown the unique values of each numeric column, there are 5 columns that have
 
 ### **4. Choose top 6 features importance to analyze**
 
+- Show Feature Importance from model.
+
+- 
+
+- From the Feature Important chart, choose the 6 highest features: Tenure, Complain, DaySinceLastOrder, CashbackAmount, MaritalStatus_Single, PreferedOrderCat_Mobile Phone.
+
+- 
 
 ## **III. Unsupervised Learning**
 
