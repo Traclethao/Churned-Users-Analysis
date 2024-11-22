@@ -154,6 +154,19 @@ As shown the unique values of each numeric column, there are 5 columns that have
   
 ### **3. GridSearchCV model**
 
+- Split train/test set & Normalization
+
+- 
+  
+- Apply Model
+
+- 
+  
+- Feature Importance of Clusters
+
+- 
+
+  => CashbackAmount is the most important factor in clustering for churned users. It is 3 times more important than Tenure, which is the second most important.
 
 ## **IV. Conclusion**
 The majority of churned users are:
