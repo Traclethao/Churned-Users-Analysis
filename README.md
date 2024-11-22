@@ -5,7 +5,7 @@ Using Machine Learning to predict user churn then segment these users into group
 
 ### **1. Situation**
 
-- One ecommerce company has a project on **predicting churned users** and **segment users** in order to **offer potential promotions**.
+One ecommerce company has a project on **predicting churned users** and **segment users** in order to **offer potential promotions**.
 
 ### **2. Task**
 
