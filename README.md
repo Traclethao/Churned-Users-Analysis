@@ -124,33 +124,33 @@ As shown the unique values of each numeric column, there are 5 columns that have
 
 - Distribution Of The Clusters
   
--
+![Clusters](https://github.com/user-attachments/assets/fa4b98f8-b8f7-4569-81b4-d8b7021bb9ad)
   
   => Cluster 1 has the most distribution (accounted for more 400 users)
   
 - Cluster's Profile Based On CashbackAmount And Tenure
 
-- 
+  ![CashbackAmount And Tenure](https://github.com/user-attachments/assets/e57339da-6190-4376-b6ba-53236ff9d883)
 
   => The distribution of clusters by CashbackAmount And Tenure is almost the same.
 
 - Cluster's Profile Based On CashbackAmount And DaySinceLastOrder
 
-- 
+  ![CashbackAmount And DaySinceLastOrder](https://github.com/user-attachments/assets/489e53fc-bfb9-4a85-8b5e-21e518ab98a0)
 
   => The distribution of clusters is mainly concentrated in the range of 0-20 recent days.
 
 - Cluster's Profile Based On MaritalStatus
 
-- 
+  ![MaritalStatus](https://github.com/user-attachments/assets/067979fa-0585-4c23-8114-32d6d7319796)
   
 - Cluster's Profile Based On Complain
 
-- 
+  ![Complain](https://github.com/user-attachments/assets/952bd478-0e09-4bb2-b8ed-d833d3bc94ea)
   
 - Cluster's Profile Based On PreferedOrderCat
 
-- 
+  ![PreferedOrderCat](https://github.com/user-attachments/assets/6f02d2bb-d727-49d3-a4e4-2760438b2460)
   
 ### **3. GridSearchCV model**
 
