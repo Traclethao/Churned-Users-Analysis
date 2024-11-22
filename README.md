@@ -38,7 +38,7 @@ Using Machine Learning to predict user churn then segment these users into group
  
     ![Replace 0](https://github.com/user-attachments/assets/9a9638d7-eeb2-4cfa-afad-bc04bf07b0c1)
   
-  + Handle when features can cover have outliers => replace Median
+  + Handle when features cover have outliers => replace Median
  
     ![Replace Median](https://github.com/user-attachments/assets/3225fc91-9e99-4700-aec5-27acce9dbc8a)
 
