@@ -13,9 +13,34 @@ Using Machine Learning to predict user churn then segment these users into group
 
 ### **2. Task**
 
+- Build the Machine Learning model for predicting churned users. Choose six Feature Importance from the model that they are the behaviors of churned users. 
+ 
+- Based on six Feature Importance, segment these churned users into groups so that the company offers some special promotions for them.
+
 ## **II. Supervised Learning**
 
+### **1. EDA**
+
+
+### **2. Transforms features**
+
+
+### **3. Apply Random Forest model**
+
+
+### **4. Choose top 6 features importance to analyze**
+
+
 ## **III. Unsupervised Learning**
+
+### **1. Dimension Reduction**
+
+
+### **2. Apply K-Means model**
+
+
+### **3. GridSearchCV model**
+
 
 ## **IV. Conclusion**
 The majority of churned users are:
