@@ -44,9 +44,9 @@ Using Machine Learning to predict user churn then segment these users into group
 
 #### **1.2. Check imbalanced**
 
+![Check imbalanced](https://github.com/user-attachments/assets/044ea56e-d759-4648-a03d-af89fb174c48)
 
-
-The ration of label 1 on total is 16% => We can continue with the EDA and ML model
+=> The ratio of label 1 on total is 16% => We can continue with the EDA and ML model 
 
 #### **1.3. Univariate Analysis** 
 
