@@ -98,6 +98,9 @@ As shown the unique values of each numeric column, there are 5 columns that have
 
 ### **1. Dimension Reduction**
 
+![Dimension Reduction 1](https://github.com/user-attachments/assets/f15f85fe-58f8-4784-bfbd-662f42fc6cb1)
+
+![Dimension Reduction 2](https://github.com/user-attachments/assets/84a368e6-a946-4002-b96c-67bb98084a6a)
 
 ### **2. Apply K-Means model**
 
